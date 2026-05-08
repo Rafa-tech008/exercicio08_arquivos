@@ -26,7 +26,7 @@ def main ():
     dir00: str = ''
     arq00: str = ''
 
-    dir00 = '/media/sf_VS_Code/Atividades_python/atividade_05/Arquivos.txt/'
+    dir00 = '/media/sf_VS_Code/Atividades_python/atividade_08/Arquivos.txt/'
     arq00 = 'exercicio37.txt'
 
     ler_conteudo (dir00, arq00)
