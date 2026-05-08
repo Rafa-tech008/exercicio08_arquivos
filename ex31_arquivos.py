@@ -28,7 +28,7 @@ def main():
     arq00: str = ''
     dir00: str = ''
 
-    dir00 = '/media/sf_VS_Code/Atividades_python/atividade_05/Arquivos.txt/'
+    dir00 = '/media/sf_VS_Code/Atividades_python/atividade_08/Arquivos.txt/'
     arq00 = 'exercicio31.txt'
 
     buffer = func_calc (num)

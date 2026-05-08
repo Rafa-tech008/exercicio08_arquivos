@@ -31,7 +31,7 @@ def main ():
     arq00: str = ''
     contador: int = 0
 
-    dir00 = '/media/sf_VS_Code/Atividades_python/atividade_05/Arquivos.txt/'
+    dir00 = '/media/sf_VS_Code/Atividades_python/atividade_08/Arquivos.txt/'
     arq00 = 'exercicio37.txt'
     contador = int (input("Digite um número: "))
     buffer= func_fibon (contador)
